@@ -1,9 +1,10 @@
 package lecho.lib.hellocharts.view;
 
 import android.content.Context;
-import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.util.Log;
+
+import androidx.core.view.ViewCompat;
 
 import lecho.lib.hellocharts.BuildConfig;
 import lecho.lib.hellocharts.computator.PreviewChartComputator;
