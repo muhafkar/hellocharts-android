@@ -20,6 +20,7 @@ dependencies {
     //compile fileTree(dir: 'libs', include: '*.jar')
     implementation 'androidx.legacy:legacy-support-core-utils:1.0.0'
     implementation 'androidx.drawerlayout:drawerlayout:1.1.1'
+    implementation 'androidx.viewpager:viewpager:1.0.0'
 }
 
 
